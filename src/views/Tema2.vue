@@ -173,7 +173,7 @@
           .bloque-texto-a__texto.h-100.d-flex.align-items-center.p-4
             p Según Gerente (2011), Esta teoría se basa sobre el esfuerzo de integración de las intervenciones estratégicas. Se parte del concepto que las organizaciones están compuestas por tres sistemas que son el técnico, el político y los culturales. Cuenta con la estrategia organizacional, estructura y administración del talento humano, herramientas que son las necesarias para alinear los tres sistemas entre sí y con el medio.
 
-    .bloque-texto-a.bloque-texto-alt.color-acento-botones.p-4.p-md-5.mb-5 
+    .bloque-texto-a.bloque-texto-alt.color-acento-botones.p-4.p-md-5 
       .row.m-0.align-items-stretch.justify-content-around.mb-4
         .col-lg-3.mb-4.mb-lg-0
           
