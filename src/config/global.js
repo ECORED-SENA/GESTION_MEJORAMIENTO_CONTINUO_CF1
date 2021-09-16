@@ -1,11 +1,10 @@
 export default {
   global: {
-    componenteFormativo:
-      'Componente Formativo con un nombre extremadamente largo y extenso',
+    componenteFormativo: 'Entorno, diagnóstico y conocimiento de empresa',
     descripcionCurso:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis vestibulum quam bibendum varius.<br/><br/>Quisque pretium at nulla sit amet placerat. Vestibulum consequat suscipit accumsan. Proin pharetra congue enim et tempus. Sed sodales dui volutpat, placerat tellus accumsan, semper est. Phasellus nec lorem elementum, mattis quam eget, vestibulum nibh. Sed.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+      'El éxito de una empresa depende en buena parte de como esta se relacione con su entorno, el contexto, diagnóstico y conocimiento de los factores internos y externos que le permitan ayudar a la toma de decisiones estratégicas y su operación. Se establece un análisis dependiendo del sector a analizar como factores económicos, socioculturales, tecnológicos, medioambientales y del sector que la empresa espera desarrollar.',
+    imagenBannerPrincipal: require('@/assets/curso/principal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo.jpg'),
   },
   menuPrincipal: {
     menu: [
@@ -24,116 +23,20 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Contexto organizacional de la empresa',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
+            titulo: 'Análisis de contexto',
+            hash: 't1-1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Modal',
-            hash: 'modal',
+            titulo: 'Herramientas para el análisis del contexto',
+            hash: 't1-2',
           },
         ],
       },
@@ -141,90 +44,20 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'Diagnóstico y características de la empresa',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Infografía Animada',
-            hash: 't_2_1',
+            titulo: 'Tipos de diagnóstico organizacional',
+            hash: 't2-1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Video Motion',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Motion + Presentador',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Animación 2D',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Video interactivo',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.6',
-            titulo: 'Infografías',
-            hash: 't_2_6',
-          },
-        ],
-      },
-      {
-        nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Fundamentación Textil',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Identificación fibras por combustión',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Clasificación de los hilos',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Clasificación de tejidos',
-            hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Caracterización de los tejidos',
-            hash: 't_3_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.6',
-            titulo: 'Procesos textiles',
-            hash: 't_3_6',
+            titulo: 'Modelo de diagnóstico organizacional',
+            hash: 't2-2',
           },
         ],
       },
@@ -265,142 +98,156 @@ export default {
   },
   referencias: [
     {
-      referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+      referencia: 'EEE. (2016).  Análisis del contexto organizacional. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.escuelaeuropeaexcelencia.com/2016/09/analisis-del-contexto-la-organizacion/',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Betancourt., D. (2019). 7S de Mckinsey: Qué es y cómo se emplea. ',
+      link: 'https://www.ingenioempresa.com/7s-de-mckinsey/',
+    },
+    {
+      referencia:
+        'Dynamic. (2021).  La Cadena de Valor de Michael Porter: Análisis de las actividades de la empresa.  ',
+      link: 'https://www.dynamicgc.es/cadena-de-valor-porter/',
+    },
+    {
+      referencia:
+        'Garrido, I. (2017). El Modelo Mintzberg, una organización estructurada en la empresa. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://empresas.infoempleo.com/hrtrends/modelo-mintzberg-una-organizacion-estructurada-la-empresa',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Gerente, D. (2011). Teoría de Tichy (Administración del Cambio Estratégico). ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'http://doctorgerente.blogspot.com/2011/05/teoria-de-tichy-administracion-del.html',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Mirnaethel1 (2015). Diagnóstico organizacional. [presentación de diapositivas]. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://es.slideshare.net/mirnaethel1/modulo3-diagnostico-organizacional',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'PAD-Escuela de Dirección. (2021). Aprende cómo hacer un diagnóstico organizacional altamente efectivo. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://blog.pad.edu/como-realizar-un-diagnostico-completo-de-tu-organizacion',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Reflexiona y Aprende. (2019). El Modelo de Seis-Cajas de Marvin Weisbord (Modelo de Weisbord). ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'http://www.reflectlearn.org/es/discover/el-modelo-de-seis-cajas-de-marvin-weisbord-modelo-de-weisbord',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Cadena de valor',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Herramienta para medir, analizar y contextualizar la situación actual de una empresa y las actividades que aportan valor a la misma.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Diagnóstico funcional',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Actividad realizada al inicio del proceso de cambio a mejoramiento continuo, para examinar cómo se encuentra la empresa y donde focalizar esfuerzos para lograrlo.',
     },
     {
       termino: 'Pirognóstico',
+      terminoHtml: '<em>Suftware</em>',
       significado:
         'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'FODA',
+      terminoHtml: '<em>FODA</em>',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Son las iniciales de Fortalezas, Oportunidades, Debilidades y Amenazas que se aplican en una empresa.',
     },
     {
-      termino: 'Moda',
+      termino: 'Logística interna',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Son todas las acciones que están relacionadas con la gestión de stocks o inventarios, desde su recepción hasta su participación en el proceso productivo.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Modelo de las 7S',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Adopta su nombre por las siete dimensiones sobre las que basa su efectividad y está enfocado en analizar y mejorar la efectividad en las organizaciones.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Modelo organizacional de Mintzberg',
+      terminoHtml: 'Modelo organizacional de <em>Mintzberg</em>',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Modelo empresarial de descripción de estructuras y organización de las empresas, formulado y planteado por Henry Mintzberg para con ello ser una guía o faro de cómo comprenderlas, clasificarlas y diseñar las nuevas estructuras de las empresas.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Excelencia, (2016). Análisis del contexto de la organización. https://www.escuelaeuropeaexcelencia.com/2016/09/analisis-del-contexto-la-organizacion/',
+      tipo: 'Página WEB',
+      link:
+        'https://www.escuelaeuropeaexcelencia.com/2016/09/analisis-del-contexto-la-organizacion/',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Mirnaethel1 (2015). Diagnóstico organizacional. [presentación de diapositivas]. https://es.slideshare.net/mirnaethel1/modulo3-diagnostico-organizacional',
+      tipo: 'Página WEB',
+      link:
+        'https://es.slideshare.net/mirnaethel1/modulo3-diagnostico-organizacional',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Sergenet, M. (2017 octubre). La gestión de procesos como mejora continua [Web log post]. ',
+      tipo: 'Blog',
+      link:
+        'https://www.datadec.es/blog/gestion-de-procesos-como-mejora-continua',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      texto:
+        'Isotools excellence, (2020 enero 8). Método just in time, la filosofía de la reducción en las organizaciones. Calidad y excelencia. ',
+      tipo: 'Página WEB',
+      link:
+        'https://www.isotools.org/2020/01/08/metodo-just-in-time-la-filosofia-de-la-reduccion-en-las-organizaciones/',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'Dynamic, (2020). La cadena de valor de Michael Porter. ',
+      tipo: 'Página WEB',
+      link: 'https://www.dynamicgc.es/cadena-de-valor-porter/',
+    },
+    {
+      texto:
+        'Mejía y Miranda (2015). Implementación de la técnica de las 5S como metodología parta el mejoramiento continuo. ',
+      tipo: 'Repositorio, (Página WEB)',
+      link:
+        'http://repositorio.ulvr.edu.ec/bitstream/44000/732/1/T-ULVR-0906.pdf',
+    },
+    {
+      texto:
+        'ISOTools Excelence. (2020 enero 8). Método Just in time, la filosofía de la reducción en las organizaciones. ',
+      tipo: 'Blog',
+      link:
+        'https://www.isotools.org/2020/01/08/metodo-just-in-time-la-filosofia-de-la-reduccion-en-las-organizaciones/',
+    },
+    {
+      texto:
+        'Bizneo HR Software. (2021). El método Kaizen: mejora continuamente tu empresa. [Web log post]. ',
+      tipo: 'Blog',
+      link: 'https://www.bizneo.com/blog/metodo-kaizen/',
+    },
+    {
+      texto: 'Guerrero, Vladimir. (2017). ¿Qué es six sigma? ',
+      tipo: 'Página WEB',
+      link: 'http://leansolutions.co/que-es-six-sigma/',
+    },
+    {
+      texto:
+        'Byspel, (2018,07,25). Técnicas de análisis de requerimientos. ¿Cuáles son? Y ¿Para qué sirven? [Web log post]. ',
+      tipo: 'Blog',
+      link:
+        'https://byspel.com/tecnicas-de-analisis-de-requerimientos-cuales-son/',
     },
   ],
   creditos: {

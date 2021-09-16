@@ -1,8 +1,8 @@
-# **sena-base-2021 v4.1.1**
+# **Entorno, diagnóstico y conocimiento de empresa**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/GESTION_MEJORAMIENTO_CONTINUO_CF1/](https://ecored-sena.github.io/GESTION_MEJORAMIENTO_CONTINUO_CF1/)
 
 #
 
