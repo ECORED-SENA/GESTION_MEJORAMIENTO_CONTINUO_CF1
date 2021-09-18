@@ -98,18 +98,18 @@ export default {
   },
   referencias: [
     {
-      referencia: 'EEE. (2016).  Análisis del contexto organizacional. ',
+      referencia: 'EEE. (2016). Análisis del contexto organizacional. ',
       link:
         'https://www.escuelaeuropeaexcelencia.com/2016/09/analisis-del-contexto-la-organizacion/',
     },
     {
       referencia:
-        'Betancourt., D. (2019). 7S de Mckinsey: Qué es y cómo se emplea. ',
+        'Betancourt., D. (2019). 7S de Mckinsey. Qué es y cómo se emplea. ',
       link: 'https://www.ingenioempresa.com/7s-de-mckinsey/',
     },
     {
       referencia:
-        'Dynamic. (2021).  La Cadena de Valor de Michael Porter: Análisis de las actividades de la empresa.  ',
+        'Dynamic. (2021). La Cadena de Valor de Michael Porter. Análisis de las actividades de la empresa.  ',
       link: 'https://www.dynamicgc.es/cadena-de-valor-porter/',
     },
     {
@@ -156,13 +156,12 @@ export default {
     },
     {
       termino: 'Pirognóstico',
-      terminoHtml: '<em>Suftware</em>',
+      terminoHtml: '<em>Pirognóstico</em>',
       significado:
         'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
     },
     {
       termino: 'FODA',
-      terminoHtml: '<em>FODA</em>',
       significado:
         'Son las iniciales de Fortalezas, Oportunidades, Debilidades y Amenazas que se aplican en una empresa.',
     },
@@ -185,16 +184,15 @@ export default {
   ],
   complementario: [
     {
-      texto:
-        'Excelencia, (2016). Análisis del contexto de la organización. https://www.escuelaeuropeaexcelencia.com/2016/09/analisis-del-contexto-la-organizacion/',
-      tipo: 'Página WEB',
+      texto: 'Excelencia, (2016). Análisis del contexto de la organización.',
+      tipo: 'Página web',
       link:
         'https://www.escuelaeuropeaexcelencia.com/2016/09/analisis-del-contexto-la-organizacion/',
     },
     {
       texto:
-        'Mirnaethel1 (2015). Diagnóstico organizacional. [presentación de diapositivas]. https://es.slideshare.net/mirnaethel1/modulo3-diagnostico-organizacional',
-      tipo: 'Página WEB',
+        'Mirnaethel1 (2015). Diagnóstico organizacional. [presentación de diapositivas].',
+      tipo: 'Página web',
       link:
         'https://es.slideshare.net/mirnaethel1/modulo3-diagnostico-organizacional',
     },
@@ -207,26 +205,26 @@ export default {
     },
     {
       texto:
-        'Isotools excellence, (2020 enero 8). Método just in time, la filosofía de la reducción en las organizaciones. Calidad y excelencia. ',
-      tipo: 'Página WEB',
+        'Isotools excellence, (2020 enero 8). Método <em>just in time</em>, la filosofía de la reducción en las organizaciones. Calidad y excelencia. ',
+      tipo: 'Página web',
       link:
         'https://www.isotools.org/2020/01/08/metodo-just-in-time-la-filosofia-de-la-reduccion-en-las-organizaciones/',
     },
     {
       texto: 'Dynamic, (2020). La cadena de valor de Michael Porter. ',
-      tipo: 'Página WEB',
+      tipo: 'Página web',
       link: 'https://www.dynamicgc.es/cadena-de-valor-porter/',
     },
     {
       texto:
         'Mejía y Miranda (2015). Implementación de la técnica de las 5S como metodología parta el mejoramiento continuo. ',
-      tipo: 'Repositorio, (Página WEB)',
+      tipo: 'Pdf',
       link:
         'http://repositorio.ulvr.edu.ec/bitstream/44000/732/1/T-ULVR-0906.pdf',
     },
     {
       texto:
-        'ISOTools Excelence. (2020 enero 8). Método Just in time, la filosofía de la reducción en las organizaciones. ',
+        'ISOTools Excelence. (2020 enero 8). Método <em>just in time</em>, la filosofía de la reducción en las organizaciones. ',
       tipo: 'Blog',
       link:
         'https://www.isotools.org/2020/01/08/metodo-just-in-time-la-filosofia-de-la-reduccion-en-las-organizaciones/',
@@ -239,12 +237,12 @@ export default {
     },
     {
       texto: 'Guerrero, Vladimir. (2017). ¿Qué es six sigma? ',
-      tipo: 'Página WEB',
+      tipo: 'Página web',
       link: 'http://leansolutions.co/que-es-six-sigma/',
     },
     {
       texto:
-        'Byspel, (2018,07,25). Técnicas de análisis de requerimientos. ¿Cuáles son? Y ¿Para qué sirven? [Web log post]. ',
+        'Byspel, (2018,07,25). Técnicas de análisis de requerimientos, ¿cuáles son? y ¿para qué sirven?',
       tipo: 'Blog',
       link:
         'https://byspel.com/tecnicas-de-analisis-de-requerimientos-cuales-son/',
@@ -265,6 +263,29 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'José Luis Rangel Ayala',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de la Industria, la Empresa y los Servicios. CIES Regional Norte de Santander',
+      },
+      {
+        nombre: 'Gloria Lida Alzate Suárez',
+        cargo: 'Diseñadora instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+      },
+      {
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Regional Distrito Capital- Centro de gestión industrial.',
+      },
+      {
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -279,25 +300,25 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Carlos Julián Ramirez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

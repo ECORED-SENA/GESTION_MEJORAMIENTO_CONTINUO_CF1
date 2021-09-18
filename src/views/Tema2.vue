@@ -21,7 +21,7 @@
     PasosA.color-acento-botones(tipo="n")
       .row.align-items-center.justify-content-around
         .col-md-9.mb-4.mb-md-0
-          h3 Distinguir el nivel de eficacia.
+          h3 Distinguir el nivel de eficacia
           p.mb-0 ¿Cuál es nuestra estrategia y qué tan bien está resultando? ¿Qué beneficios está generando? De acuerdo con el Dr. Enrique Seminario, director del Programa de Liderazgo Directivo del PAD-Escuela de Dirección, ese punto está relacionado con la capacidad de ejecutar adecuadamente y tener visión del negocio. (PAD-Escuela de Dirección, 2021)
         .col-6.col-md-2
           figure
@@ -31,11 +31,11 @@
           figure
             img(src='@/assets/curso/t2-03.svg')
         .col-md-9
-          h3 Reconocer qué te hace diferente.
+          h3 Reconocer qué te hace diferente
           p Cada vez es más importante saber qué distingue a tu organización en comparación con las demás. ¿Qué es lo que sabe hacer y por qué se caracteriza? Estos atributos deben ser protegidos y desarrollados. (PAD-Escuela de Dirección, 2021)
       .row.align-items-center.justify-content-around
         .col-md-9.mb-4.mb-md-0
-          h3 Plantear una misión. 
+          h3 Plantear una misión
           p.mb-0 Este punto se refiere a identificar qué es lo que la empresa está ofreciendo tanto a sus clientes internos como externos y hacia dónde busca llegar con esta propuesta de valor.  ¿Qué problemas quiero ayudar a resolver a los demás? (PAD-Escuela de Dirección, 2021)
         .col-6.col-md-2
           figure
@@ -46,13 +46,13 @@
     #t2-1.titulo-segundo
       h2 2.1 Tipos de diagnóstico organizacional
 
-    p.mb-5 En el diagnóstico se examinan y mejoran los sistemas y prácticas de la comunicación interna y externa en todos sus niveles, para tal efecto se utiliza herramientas, dependiendo de la profundidad deseada, variables que se desea investigar, de los recursos disponibles y de grupos o niveles específicos entre los que se van a aplicar, ver figura 2.
+    p.mb-5 En el diagnóstico se examinan y mejoran los sistemas y prácticas de la comunicación interna y externa en todos sus niveles, para tal efecto se utiliza herramientas, dependiendo de la profundidad deseada, variables que se desea investigar, de los recursos disponibles y de grupos o niveles específicos entre los que se van a aplicar, ver la figura a continuación.
 
     .titulo-sexto.color-acento-contenido
-      h5 Diagnóstico Organizacional
+      h5 Diagnóstico organizacional
 
     .row.justify-content-center.mb-5
-      .col-6.col-md-10
+      .col-md-10
         figure
           img(src='@/assets/curso/t2-05.svg')
 
@@ -71,7 +71,7 @@
         .col-md.mb-4.mb-md-0
           P.mb-0 
             b Diagnóstico cultural. 
-            | Se define como sucesión de acciones cuya finalidad es descubrir los valores y principios básicos de una organización, el grado en que estos son conocidos y compartidos por sus miembros y la congruencia que guardan con el comportamiento organizacional. Sus objetivos son evaluar el papel de comunicación en la creación, mantenimiento y desarrollo de la cultura de una organización. También el de evaluar el contenido de las producciones comunicacionales y el significado que tiene para sus miembros, tales como conversaciones, ritos, mitos, filosofía y valores. Por último, busca entender la vida organizacional y el papel de la comunicación desde la perspectiva de los miembros de la organización. (Slideshare, 2015)
+            | Se define como sucesión de acciones cuya finalidad es descubrir los valores y principios básicos de una organización, el grado en que estos son conocidos y compartidos por sus miembros y la congruencia que guardan con el comportamiento organizacional. Sus objetivos son evaluar el papel de la comunicación en la creación, mantenimiento y desarrollo de la cultura de una organización. También el de evaluar el contenido de las producciones comunicacionales y el significado que tiene para sus miembros, tales como conversaciones, ritos, mitos, filosofía y valores. Por último, busca entender la vida organizacional y el papel de la comunicación desde la perspectiva de los miembros de la organización. (Slideshare, 2015)
 
         .col-6.col-md-4
           figure
@@ -101,7 +101,7 @@
 
         .col-lg-9
           .bloque-texto-a__texto.p-4
-            p De acuerdo con Betancourt (2019), El modelo de las 7s adopta su nombre por las siete dimensiones sobre las que basa su efectividad, además de la “inquietud de las empresas occidentales de adoptar el excelente desempeño de las empresas japonesas”. Está enfocada en analizar y mejorar la efectividad en las organizaciones. 
+            p De acuerdo con Betancourt (2019), el modelo de las 7s adopta su nombre por las siete dimensiones sobre las que basa su efectividad, además de la “inquietud de las empresas occidentales de adoptar el excelente desempeño de las empresas japonesas”. Está enfocada en analizar y mejorar la efectividad en las organizaciones. 
 
       .row.m-0.align-items-stretch.justify-content-around
         .col-lg-3.mb-4.mb-lg-0
@@ -109,7 +109,7 @@
 
         .col-lg-7
           p 
-            b Strategy o estrategia. Structure o estructura. Systems o sistemas. Style o estilo. Staff o personal. Skills o habilidades y Super ordinate goals. (Shared values) o metas superiores. (Valores compartidos). 
+            b <em>Strategy</em> o estrategia. <em>Structure</em> o estructura. <em>Systems</em> o sistemas. <em>Style</em> o estilo. <em>Staff</em> o personal. <em>Skills</em> o habilidades y <em>Super ordinate goals</em>. (<em>Shared values</em>) o metas superiores. (Valores compartidos). 
             | Si estas dimensiones se encuentran completamente alineadas e interconectadas, no hay dudas del éxito de la organización. Al hablar de alineación se habla de su integración y funcionamiento armónico dentro del día a día del negocio. (Betancourt., 2019)
 
     .text-center
@@ -139,22 +139,22 @@
         .col-lg-7
           p.mb-0
             b Propósitos: 
-            | ¿Dentro de qué “empresa” nos encontramos?
+            | ¿dentro de qué “empresa” nos encontramos?
             br
             b Estructura: 
-            | ¿Cómo nos dividimos el trabajo?
+            | ¿cómo nos dividimos el trabajo?
             br
             b Relaciones: 
-            | ¿Cómo manejamos el conflicto (nos coordinamos) entre la gente? ¿Con nuestras tecnologías?
+            | ¿cómo manejamos el conflicto (nos coordinamos) entre la gente? ¿Con nuestras tecnologías?
             br
             b Recompensas: 
-            | ¿Hay algún incentivo para hacer todo lo que necesita hacerse?
+            | ¿hay algún incentivo para hacer todo lo que necesita hacerse?
             br
             b Liderazgo: 
-            | ¿Alguien está manteniendo el equilibrio entre las cajas?
+            | ¿alguien está manteniendo el equilibrio entre las cajas?
             br
             b Mecanismos útiles: 
-            | ¿Contamos con tecnologías de coordinación apropiadas?
+            | ¿contamos con tecnologías de coordinación apropiadas?
 
 
     .bloque-texto-a.bloque-texto-alt.color-acento-botones.p-4.p-md-5.mb-5 
@@ -171,7 +171,7 @@
 
         .col-lg-10
           .bloque-texto-a__texto.h-100.d-flex.align-items-center.p-4
-            p Según Gerente (2011), Esta teoría se basa sobre el esfuerzo de integración de las intervenciones estratégicas. Se parte del concepto que las organizaciones están compuestas por tres sistemas que son el técnico, el político y los culturales. Cuenta con la estrategia organizacional, estructura y administración del talento humano, herramientas que son las necesarias para alinear los tres sistemas entre sí y con el medio.
+            p Según Gerente (2011), esta teoría se basa sobre el esfuerzo de integración de las intervenciones estratégicas. Se parte del concepto que las organizaciones están compuestas por tres sistemas que son el técnico, el político y los culturales. Cuenta con la estrategia organizacional, estructura y administración del talento humano, herramientas que son las necesarias para alinear los tres sistemas entre sí y con el medio.
 
     .bloque-texto-a.bloque-texto-alt.color-acento-botones.p-4.p-md-5 
       .row.m-0.align-items-stretch.justify-content-around.mb-4
