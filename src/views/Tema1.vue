@@ -123,7 +123,7 @@
           h4 Actividades primarias
           
           TabsC.tabsc-a.color-primario.mb-3
-            .py-3.py-md-4(titulo="Logística Interna")
+            .py-3.py-md-4(titulo="Logística interna")
               .tarjeta.tarjeta-blanca.p-4
                 .row.align-items-center
                   .col-6.col-md-3.mb-4.mb-md-0
@@ -152,7 +152,7 @@
                   .col-md-9
                     p.mb-0 Controla el proceso de almacenamiento y distribución de los productos ya terminados. En la que se define como funcionará el sistema de stock e inventario de la empresa.
           
-            .py-3.py-md-4(titulo="Marketing y ventas")
+            .py-3.py-md-4(titulo="<em>Marketing</em> y ventas")
               .tarjeta.tarjeta-blanca.p-4
                 .row.align-items-center
                   .col-6.col-md-3.mb-4.mb-md-0
@@ -161,7 +161,7 @@
                   .col-md-9
                     p.mb-0 La actividad va enfocada a llegar al cliente final cuando el producto ya está elaborado para lograr los ingresos de la empresa.
           
-            .py-3.py-md-4(titulo="Servicio Post-venta")
+            .py-3.py-md-4(titulo="Servicio post-venta")
               .tarjeta.tarjeta-blanca.p-4
                 .row.align-items-center
                   .col-6.col-md-3.mb-4.mb-md-0
@@ -170,8 +170,7 @@
                   .col-md-9
                     p.mb-0 Es una acción que no solo debe estar asociada al cumplimiento de una garantía como erróneamente está concebida en algunas empresas, sino como la oportunidad de tener un contacto diferencial con el cliente que brinde la posibilidad de una nueva compra por parte del mismo.
 
-
-          h4 Actividades Primarias
+          h4 Actividades secundarias o de apoyo
 
           TabsC.tabsc-b.color-primario.mb-3
             .py-3.py-md-4(titulo="Infraestructura de la empresa")

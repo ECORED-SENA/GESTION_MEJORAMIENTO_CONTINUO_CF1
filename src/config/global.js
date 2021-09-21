@@ -155,12 +155,6 @@ export default {
         'Actividad realizada al inicio del proceso de cambio a mejoramiento continuo, para examinar cómo se encuentra la empresa y donde focalizar esfuerzos para lograrlo.',
     },
     {
-      termino: 'Pirognóstico',
-      terminoHtml: '<em>Pirognóstico</em>',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
-    },
-    {
       termino: 'FODA',
       significado:
         'Son las iniciales de Fortalezas, Oportunidades, Debilidades y Amenazas que se aplican en una empresa.',
@@ -190,15 +184,14 @@ export default {
         'https://www.escuelaeuropeaexcelencia.com/2016/09/analisis-del-contexto-la-organizacion/',
     },
     {
-      texto:
-        'Mirnaethel1 (2015). Diagnóstico organizacional. [presentación de diapositivas].',
+      texto: 'Mirnaethel1 (2015). Diagnóstico organizacional. ',
       tipo: 'Página web',
       link:
         'https://es.slideshare.net/mirnaethel1/modulo3-diagnostico-organizacional',
     },
     {
       texto:
-        'Sergenet, M. (2017 octubre). La gestión de procesos como mejora continua [Web log post]. ',
+        'Sergenet, M. (2017 octubre). La gestión de procesos como mejora continua ',
       tipo: 'Blog',
       link:
         'https://www.datadec.es/blog/gestion-de-procesos-como-mejora-continua',
@@ -231,7 +224,7 @@ export default {
     },
     {
       texto:
-        'Bizneo HR Software. (2021). El método Kaizen: mejora continuamente tu empresa. [Web log post]. ',
+        'Bizneo HR Software. (2021). El método Kaizen: mejora continuamente tu empresa. ',
       tipo: 'Blog',
       link: 'https://www.bizneo.com/blog/metodo-kaizen/',
     },
@@ -278,7 +271,7 @@ export default {
       {
         nombre: 'Silvia Milena Sequeda Cárdenas',
         cargo: 'Evaluadora instruccional',
-        centro: 'Regional Distrito Capital- Centro de gestión industrial.',
+        centro: 'Centro de gestión industrial Regional Distrito Capital',
       },
       {
         nombre: 'Jhon Jairo Rodríguez Pérez',

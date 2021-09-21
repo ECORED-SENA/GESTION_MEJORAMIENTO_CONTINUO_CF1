@@ -10,7 +10,7 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Herramientas y conceptos de mejora continua.
+          h2 Herramientas y conceptos de mejora continua
         p.mb-4 Identificar algunas herramientas utilizadas en la mejora continua para optimizar los procesos, productos y servicios de una empresa.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
