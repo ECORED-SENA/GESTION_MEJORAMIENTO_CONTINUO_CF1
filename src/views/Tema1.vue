@@ -66,7 +66,7 @@
             .col-lg-9
               AcordionA(tipo="a" clase-tarjeta="tarjeta color-acento-botones--claro")
                 div(titulo="Paso 1: objetivo")
-                  p.mb-0 Se debe tener clara la razón por la cual se realizará un análisis FODA.
+                  p.mb-0 Se debe tener clara la razón por la cuál se realizará un análisis FODA.
 
                 div(titulo="Paso 2: amenazas")
                   p.mb-0 Las amenazas son los riesgos que pueden desviarnos del resultado. Son externos y no están bajo nuestro control. Se deben definir las amenazas priorizando entre las más importantes.
@@ -107,7 +107,7 @@
             b Cadena de valor de Michael Porter. 
             | A mediados del año 1985, el profesor de la universidad de Harvard, el señor Michael Porter, saca al mercado su libro 
             em “Competitive advantage: Creating and Sustaining Superior Performance” 
-            | el cual trata sobre el modelo de la cadena de valor de una empresa, dando inicio a esta herramienta para medir, analizar y contextualizar la situación actual de una empresa y las actividades que aportan valor a la misma. Estas las divide en actividades principales o primarias, las cuales son las que se dedican al desarrollo del producto, y las de soporte o secundarias que son las que se usan para para que haya un correcto funcionamiento de la empresa. Su objetivo es identificar cuáles son las actividades que generan valor para la organización en el proceso de producción de sus bienes y servicios para definir claramente qué compran los clientes y que genera rentabilidad a la empresa. (Dynamic, 2021)
+            | el cual trata sobre el modelo de la cadena de valor de una empresa, dando inicio a esta herramienta para medir, analizar y contextualizar la situación actual de una empresa y las actividades que aportan valor a la misma. Estas las divide en actividades principales o primarias, las cuales son las que se dedican al desarrollo del producto, y las de soporte o secundarias que son las que se usan para para que haya un correcto funcionamiento de la empresa. Su objetivo es identificar cuáles son las actividades que generan valor para la organización en el proceso de producción de sus bienes y servicios para definir claramente qué compran los clientes y qué genera rentabilidad a la empresa. (Dynamic, 2021)
           p.mb-5 
             b Como se puede ver en la figura, las actividades primarias o principales son las siguientes:
 
@@ -130,7 +130,7 @@
                     figure
                       img(src="@/assets/curso/t1-06.svg")
                   .col-md-9
-                    p.mb-0 Son todas las acciones que están relacionadas con la gestión de stocks o inventarios, desde su recepción hasta su participación en el proceso productivo. Se recomienda la lectura de estrategias corporativas como 
+                    p.mb-0 Son todas las acciones que están relacionadas con la gestión de <em>stocks</em> o inventarios, desde su recepción hasta su participación en el proceso productivo. Se recomienda la lectura de estrategias corporativas como 
                       em Just in time 
                       | que se encuentra en el material complementario.
 
@@ -150,7 +150,7 @@
                     figure
                       img(src="@/assets/curso/t1-08.svg")
                   .col-md-9
-                    p.mb-0 Controla el proceso de almacenamiento y distribución de los productos ya terminados. En la que se define como funcionará el sistema de stock e inventario de la empresa.
+                    p.mb-0 Controla el proceso de almacenamiento y distribución de los productos ya terminados. En la que se define como funcionará el sistema de <em>stock</em> e inventario de la empresa.
           
             .py-3.py-md-4(titulo="<em>Marketing</em> y ventas")
               .tarjeta.tarjeta-blanca.p-4

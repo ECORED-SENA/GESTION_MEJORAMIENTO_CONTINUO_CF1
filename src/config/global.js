@@ -210,7 +210,7 @@ export default {
     },
     {
       texto:
-        'Mejía y Miranda (2015). Implementación de la técnica de las 5S como metodología parta el mejoramiento continuo. ',
+        'Mejía y Miranda (2015). Implementación de la técnica de las 5S como metodología para el mejoramiento continuo. ',
       tipo: 'Pdf',
       link:
         'http://repositorio.ulvr.edu.ec/bitstream/44000/732/1/T-ULVR-0906.pdf',

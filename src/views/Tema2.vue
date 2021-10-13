@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Diagnóstico y características de la empresa.
+      h1 Diagnóstico y características de la empresa
 
     .bloque-texto-a.color-acento-botones.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
@@ -89,7 +89,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    h4 Matriz FODA. 
+    h4 Matriz FODA
     p.mb-5 Descrita en el capítulo 1.2 donde se menciona el análisis que se hace con una matriz para identificar las Fortalezas, Oportunidades, Debilidades y Amenazas, considerado como un modelo para analizar los factores internos y externos que brinde información y datos con los cuales se puedan determinar estrategias.
 
     .bloque-texto-a.bloque-texto-alt.color-acento-botones.p-4.p-md-5.mb-5 
