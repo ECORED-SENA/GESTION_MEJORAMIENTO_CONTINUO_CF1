@@ -87,7 +87,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/PHwgIYMHomY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     h4 Matriz FODA
     p.mb-5 Descrita en el capítulo 1.2 donde se menciona el análisis que se hace con una matriz para identificar las Fortalezas, Oportunidades, Debilidades y Amenazas, considerado como un modelo para analizar los factores internos y externos que brinde información y datos con los cuales se puedan determinar estrategias.

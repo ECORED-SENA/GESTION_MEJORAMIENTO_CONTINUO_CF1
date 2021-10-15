@@ -18,10 +18,18 @@
 
     p.mb-5 Una gran razón para efectuar el análisis de contexto con miras al mejoramiento continuo es salir de ese estado de estancamiento que agobia a algunas empresas y organizaciones, las cuales pasan más tiempo tratando de sobrevivir el día a día, dejando de lado la autorreflexión, condición fundamental para llegar a utilizar este proceso.
 
-    figure
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+    //- figure
+    //-   .video
+    //-     iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+    .text-center
+      a.anexo.d-inline-block.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=cy9PQ9lda-Q" target="_blank")
+        .anexo__icono
+          img(src="@/assets/template/icono-link.svg")
+        .anexo__texto
+          p.mb-0
+            b Enlace web. 
+            | https://www.youtube.com/watch?v=cy9PQ9lda-Q
     Separador
 
     #t1-1.titulo-segundo
